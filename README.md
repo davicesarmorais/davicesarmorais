@@ -11,7 +11,7 @@
   <img height=190 src="https://github-stats-extended.vercel.app/api?username=davicesarm&show_icons=true&theme=tokyonight&border_color=2f353d" alt="Davi's GitHub stats"/>
 </div>
 <br>
-<img src="https://skillicons.dev/icons?i=python,flask,java,spring,ts,next,cs,unity,postgres,mongo,docker,linux,arch" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,flask,java,spring,ts,next,postgres,mongo,redis,docker,linux,arch" alt="Tech Stack"/>
 
 ## 🌍 Let's Connect!  
 I'm always open to learning, collaborating, and discussing tech. Feel free to reach out!
